@@ -5,7 +5,7 @@
   - Bash
   - PowerShell
   - Java
-- 🔭 I’m currently working as a QE Intern (manual tester)
+- 🔭 I’m currently working as a QE Intern (manual & automated testing)
 
 This readme is not going to be much for a while because I don't have a LinkedIN profile yet, but here is my CodeWars badge:
 <p align="center">
